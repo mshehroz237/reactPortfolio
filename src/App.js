@@ -119,7 +119,9 @@ export default function App() {
               </div>
 
               <div className={Styles.portfolioBtn}>
+                <a href='https://github.com/mshehroz237/reactPortfolio'>
                 <h3 className={Styles._btnTextColor}>See On GitHub</h3>
+                </a>
               </div>
             </div>
           </div>
